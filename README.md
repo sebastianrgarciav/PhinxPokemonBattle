@@ -96,7 +96,12 @@ The frontend will run on `http://localhost:3000`.
 ## API Endpoints
 
 - **`GET /pokemon`**: Retrieves the list of all Pokemon.
+  
+![getpokemon](https://github.com/user-attachments/assets/b471d104-3de4-484e-8873-dd7629f93dc6)
+
 - **`POST /battle`**: Initiates a battle between two Pokemon.
+
+    ![postbattle](https://github.com/user-attachments/assets/86d18297-0708-4c61-b52c-552ad456efc4)
 
 ## Battle Algorithm
 
