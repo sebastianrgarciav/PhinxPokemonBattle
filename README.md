@@ -53,7 +53,7 @@ The Pokemon Battle App is a web application where users can simulate battles bet
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/sebstianrodrigo/pokemonBattle.git
+    git clone https://github.com/sebstianrodrigo/PhinxPokemonBattle.git
     cd pokemon-battle
     ```
 
