@@ -69,7 +69,7 @@ The Pokemon Battle App is a web application where users can simulate battles bet
 
 4. **Start the server**:
     ```bash
-    npm run start
+    npm start
     ```
 
 The backend will run on `http://localhost:8000`.
