@@ -16,8 +16,6 @@ The Pokemon Battle App is a web application where users can simulate battles bet
 - [API Endpoints](#api-endpoints)
 - [Battle Algorithm](#battle-algorithm)
 - [Usage](#usage)
-- [Contributions](#contributions)
-- [License](#license)
 
 ## Objectives
 
